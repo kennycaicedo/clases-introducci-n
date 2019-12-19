@@ -132,6 +132,9 @@ p.lead {
     display: block;
   }
 }
+.nav li ul {
+  display:none;
+}
 
 section.resume-section {
   padding-top: 5rem !important;
