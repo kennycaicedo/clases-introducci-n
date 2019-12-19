@@ -84,8 +84,8 @@ p.lead {
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
-  font-weight: 800;
-  letter-spacing: 0.05rem;
+  font-weight: 400;
+  letter-spacing: 0.025rem;
   text-transform: uppercase;
 }
 
@@ -126,10 +126,10 @@ p.lead {
     width: 100%;
   }
   #sideNav .navbar-collapse .navbar-nav .nav-item {
-    display: block;
+    display: none;
   }
   #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
-    display: block;
+    display: none;
   }
 }
 
